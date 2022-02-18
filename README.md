@@ -16,3 +16,19 @@ You can click the Preview link to take a look at your changes.
 <br>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
+
+
+<p align="center">
+  <i>Let's connect and chat! Open to anything under the sun.</i>
+
+  <p align="center">
+    	<code><a href="https://www.facebook.com/hkhang.ng00/"><img width="30px" src="./images/facebook.png" title="Facebook"/></a></code>
+	<code><a href="https://www.linkedin.com/in/hkhangng00"><img width="30px" src="./images/linkedin.png" title="Linkedin"/></a></code>
+	<code><a href="https://twitter.com/hkhang_ng00"><img width="30px" src="./images/twitter.png" title="Twitter"/></a></code>
+	<code><a href="mailto:nhk25022016@gmail.com"><img width="30px" src="./images/gmail.png" title="Gmail"/></a></code>
+  </p>
+
+  <p align="center">
+      <img src="https://komarev.com/ghpvc/?username=nhkhang2002&label=Profile+Views" alt="nhkhang2002" />
+  </p>
+</p>

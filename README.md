@@ -1,6 +1,7 @@
 - 👋 Hi, I am Allen Ng
 - 👀 I’m interested in ReactJs, NodeJs, TypeScript
 - 🌱 I’m currently working as a Front End Developer
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
